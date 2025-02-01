@@ -1,0 +1,3 @@
+import MainMenu
+
+MainMenu.main()
