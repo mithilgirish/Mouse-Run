@@ -59,7 +59,7 @@ pip install pygame
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/mouse-run.git
+git clone https://github.com/mithilgirish/Mouse-Run.git
 cd mouse-run
 ```
 
